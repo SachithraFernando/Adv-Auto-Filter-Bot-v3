@@ -1,9 +1,21 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/Adv-Auto-Filter-Bot-v3?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/blackdeep04/Adv-Auto-Filter-Bot-v3?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/blackdeep04/Adv-Auto-Filter-Bot-v3/Adv-Auto-Filter-Bot-v3)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/blackdeep04/Adv-Auto-Filter-Bot-v3)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/blackdeep04/Adv-Auto-Filter-Bot-v3)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/blackdeep04/Adv-Auto-Filter-Bot-v3)
+![GitHub contributors](https://img.shields.io/github/contributors/blackdeep04/Adv-Auto-Filter-Bot-v3?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/blackdeep04/Adv-Auto-Filter-Bot-v3?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/blackdeep04/Adv-Auto-Filter-Bot-v3)
+![GitHub](https://img.shields.io/github/license/blackdeep04/Adv-Auto-Filter-Bot-v3)
+[![Slam Mirror Support](https://img.shields.io/badge/Hype%20Tech-blue)](https://telegram.dog/hypetechdis)
+
 # Adv Auto Filter Bot V2
 
  
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot)..__
+This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot)..__
 
-__Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
+Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
 
 ## Usage
@@ -55,43 +67,14 @@ OR
 #### PR's Are Very Welcome
 
 ## Deploy
-You can deploy this bot anywhere.
+You can deploy this bot to heroku
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
-</a>
-</p>
-</details>
 
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/JNSBOT/Adv-Auto-Filter-Bot-V2/tree/blob/main
-cd Adv-Auto-Filter-Bot-ReMaster
-pip3 install -r requirements.txt
-# Change The Vars Of bot/__init__.py File Accordingly
-python3 -m bot
-</pre>
-</p>
-</details>
 
 ## Support   
 Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
-Do Fork And Star The Repository If You Liked It.
-
-## Disclaimer
-[![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
-## Credits
-
- - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
- - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
