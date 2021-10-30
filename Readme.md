@@ -62,8 +62,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/Adv-Auto-Filter-Bot-V2">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </a>
 </p>
 </details>
